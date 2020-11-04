@@ -16,7 +16,8 @@ Todo conhecimento adquirido até aqui foi por ser uma pessoa altamente autodidat
 - ACBr
 - Integrações Delphi Com WhatsApp/Telegram
 - Micro serviços
-- Consumo de API Rest
+- Criação de servidores REST
+- Consumo de API REST
 - DelphiMVCFramework
 - DevExpress
 
