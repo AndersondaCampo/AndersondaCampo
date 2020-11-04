@@ -13,10 +13,12 @@ Todo conhecimento adquirido até aqui foi por ser uma pessoa altamente autodidat
 - DF-e
 - DF-e
 - Automação comercial
+- ACBr
 - Integrações Delphi Com WhatsApp/Telegram
 - Micro serviços
 - Consumo de API Rest
 - DelphiMVCFramework
+- DevExpress
 
 <!--
 **AndersondaCampo/AndersondaCampo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
