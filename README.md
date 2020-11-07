@@ -21,5 +21,8 @@ Todo conhecimento adquirido até aqui foi por ser uma pessoa altamente autodidat
 - DelphiMVCFramework
 - DevExpress
 
+<h2>Bancos</h2>
+- Alto conhecimento com Postgres, Firebird, SQLite.
+
 <!--
 **AndersondaCampo/AndersondaCampo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
