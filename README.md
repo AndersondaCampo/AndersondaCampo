@@ -2,11 +2,10 @@
 
 <h2>Sobre</h2>
 Atualmente, programador Delphi na ControlSoft desde Março de 2020, apaixonado por programação.
-Todo conhecimento adquirido até aqui foi por ser uma pessoa altamente autodidata e graças a apoio de grandes professores.
 
 <h2>Conhecimentos</h2>
 
-- Programador Delphi
+- Desenvolvedor Delphi
 - NF-e
 - NFS-e
 - CT-e
@@ -17,12 +16,16 @@ Todo conhecimento adquirido até aqui foi por ser uma pessoa altamente autodidat
 - Integrações Delphi Com WhatsApp/Telegram
 - Micro serviços
 - Criação de servidores REST
-- Consumo de API REST
+- Consumo de API's
 - DelphiMVCFramework
+- Horse
 - DevExpress
 
 <h2>Bancos</h2>
-- Alto conhecimento com Postgres, Firebird, SQLite.
+- Alto conhecimento em SQL
+
+<h3>Atualmente</h3>
+ - Vivendo aventuras web com Node e React
 
 <!--
 **AndersondaCampo/AndersondaCampo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
