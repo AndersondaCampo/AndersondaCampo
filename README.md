@@ -19,7 +19,11 @@
 - DevExpress
 
 <h2>Bancos</h2>
-- Alto conhecimento em SQL
+- FireBird
+- Postgres
+- MySQL
+- SQLite
+- Firebase
 
 <!--
 **AndersondaCampo/AndersondaCampo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
