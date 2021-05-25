@@ -1,9 +1,6 @@
 <img src="https://github.com/AndersondaCampo/AndersondaCampo/blob/Master/header.jpg" width="1000px">
 
-<h2>Sobre</h2>
-Atualmente, programador Delphi na ControlSoft desde Março de 2020, apaixonado por programação.
-
-<h2>Conhecimentos</h2>
+<h2>Conhecimentos Delphi</h2>
 
 - Desenvolvedor Delphi
 - NF-e
