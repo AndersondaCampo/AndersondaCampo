@@ -24,8 +24,5 @@ Atualmente, programador Delphi na ControlSoft desde Março de 2020, apaixonado p
 <h2>Bancos</h2>
 - Alto conhecimento em SQL
 
-<h3>Atualmente</h3>
- - Vivendo aventuras web com Node e React
-
 <!--
 **AndersondaCampo/AndersondaCampo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
