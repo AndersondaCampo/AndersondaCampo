@@ -34,5 +34,3 @@
   - SQLite
   - Firebase
 </div>
-
-![Snake animation](https://github.com/AndersondaCampo/AndersondaCampo/output/github-contribution-grid-snake.svg)
