@@ -8,29 +8,25 @@
 </div>
 
 <div>
-  <h2>Conhecimentos Delphi</h2>
-
-  - Desenvolvedor Delphi
-  - NF-e
-  - NFS-e
-  - CT-e
-  - DF-e
-  - MDF-e
-  - Automação comercial
-  - ACBr
-  - Integrações Delphi Com WhatsApp/Telegram
-  - Micro serviços
-  - Criação de servidores REST
-  - Consumo de API's
-  - DelphiMVCFramework
-  - Horse
-  - DevExpress
-
-  <h2>Bancos</h2>
-
-  - FireBird
-  - Postgres
-  - MySQL
-  - SQLite
-  - Firebase
+    
+  * Fullstack Delphi
+  * Backend Nodejs
+  * Experiências com ReactJS e VueJS
+  
+  * ACBr(Delphi)
+  * Integrações com WhatsApp/Telegram(Delphi, Nodejs)
+  * Micro serviços
+  * Criação de servidores REST(Delphi, Nodejs)
+  * Consumo de API's
+  * DelphiMVCFramework
+  * DevExpress(Delphi)
+  * Criação de bots para Discord(NodeJS)
+  * NF-e
+  * NFS-e
+  * CT-e
+  * DF-e
+  * MDF-e
+  * Automação comercial
+  
+  Experiencias com bancos de dados FireBird, Postgres, MySQL, SQLite, Firebase
 </div>
